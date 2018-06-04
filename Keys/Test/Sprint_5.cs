@@ -11,6 +11,7 @@ namespace Keys.Test
 {
     class Sprint_1
     {
+        //Test from HP
         [TestFixture]
         [Category("Sprint_5")]
         class Sprint_1_Administration : Base
